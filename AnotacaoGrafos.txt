@@ -20,3 +20,5 @@ Arestas em um grafo completo: n(n-1) / 2
 -Grafo vazio: Um grafo vazio é um grafo que não possui vértices adjacentes.
 
 -Grafo trivial é k1, possui apenas um vertice e só, sem arestas ate pq né
+
+-ciclo de um grafo e um caminho que nao repete vertice e acaba no vertice que começou
