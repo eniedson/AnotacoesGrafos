@@ -22,3 +22,13 @@ Arestas em um grafo completo: n(n-1) / 2
 -Grafo trivial é k1, possui apenas um vertice e só, sem arestas ate pq né
 
 -ciclo de um grafo e um caminho que nao repete vertice e acaba no vertice que começou
+
+Trilha: Uma trilha é um passeio onde todas as arestas são distintas.
+
+Circuito: Um circuito é um passeio fechado sem arestas repetidas.
+
+Subgrafo: Um grafo F é subgrafo de um grafo G se V(F) ⊆ V(G), E(F) ⊆ E(G) e ψF é a restrição de ψG a E(F).
+
+Subgrafo gerador: É aquele obtido a partir de remoção de arestas apenas, onde S é o conjunto de arestas removidas.
+
+Subgrafo induzido: É aquele obtido apenas a partir de remoção de vértices, onde S é o conjunto de vértices removidos.
